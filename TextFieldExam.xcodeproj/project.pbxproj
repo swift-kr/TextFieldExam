@@ -12,6 +12,7 @@
 		C1CEC8311CDB22DB002A198F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1CEC82F1CDB22DB002A198F /* Main.storyboard */; };
 		C1CEC8331CDB22DB002A198F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1CEC8321CDB22DB002A198F /* Assets.xcassets */; };
 		C1CEC8361CDB22DB002A198F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1CEC8341CDB22DB002A198F /* LaunchScreen.storyboard */; };
+		C1CEC83E1CDB2464002A198F /* UITextFieldExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1CEC83D1CDB2464002A198F /* UITextFieldExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C1CEC8321CDB22DB002A198F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C1CEC8351CDB22DB002A198F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C1CEC8371CDB22DB002A198F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1CEC83D1CDB2464002A198F /* UITextFieldExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextFieldExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C1CEC82B1CDB22DB002A198F /* AppDelegate.swift */,
 				C1CEC82D1CDB22DB002A198F /* ViewController.swift */,
+				C1CEC83D1CDB2464002A198F /* UITextFieldExtension.swift */,
 				C1CEC82F1CDB22DB002A198F /* Main.storyboard */,
 				C1CEC8321CDB22DB002A198F /* Assets.xcassets */,
 				C1CEC8341CDB22DB002A198F /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1CEC82E1CDB22DB002A198F /* ViewController.swift in Sources */,
+				C1CEC83E1CDB2464002A198F /* UITextFieldExtension.swift in Sources */,
 				C1CEC82C1CDB22DB002A198F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
