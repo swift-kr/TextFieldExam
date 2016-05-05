@@ -38,7 +38,7 @@
                                 </userDefinedRuntimeAttributes>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lyk-Jd-pTJ">
-                                <rect key="frame" x="137" y="309" width="100" height="22"/>
+                                <rect key="frame" x="137" y="301" width="100" height="22"/>
                                 <state key="normal" title="실행하기 "/>
                             </button>
                         </subviews>

@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // 텍스트필드 커서에 따라 배경색 변경 처리
+        // 텍스트필드 커서에 따라 배경색 변경 처리 
         txtField1.delegate = txtField1
         txtField2.delegate = txtField2
 

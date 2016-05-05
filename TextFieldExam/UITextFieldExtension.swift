@@ -13,7 +13,7 @@ class UITextFieldExtension: UITextField, UITextFieldDelegate {
     func textFieldDidBeginEditing(textField: UITextField) {
         if focusBackgroundColor == nil {
             print("오류 - focusBackgroundCOlor 설정")
-            return
+            return 
         }
         defaultBackgroundColor = self.backgroundColor
         self.backgroundColor = focusBackgroundColor
